@@ -1,6 +1,5 @@
 # ANKAKH
 ANKAKH = independiente en armenio
-Ankakh espera ser un videojuego incluyente para niñas y niños entre las edades de 9-19 años para romper los prejuicios de la dificultad de las carreras STEM y las mujeres en la ciencia.
 
 # Table of content
 
@@ -21,6 +20,8 @@ Ankakh espera ser un videojuego incluyente para niñas y niños entre las edades
 _Table of content generated using VSCode plugin [Markdown TOC](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc)_
 
 # Introduction
+Ankakh espera ser un videojuego incluyente para niñas y niños entre las edades de 9-19 años para romper los prejuicios de la dificultad de las carreras STEM y las mujeres en la ciencia.
+Al mostrar la vida de l@s científicos e ingenieros (trabajo y vida social) esperamos cambiar el prejuicio negativo de la sociedad sobre estas carreras.
 
 ## Purpose
 Set the expectation for the product you’re building. So, start by defining the purpose of your product.
