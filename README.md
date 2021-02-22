@@ -1,5 +1,6 @@
-# Easy to use Template for Software Requirements Specification
-Start with a descriptive and succinct name for your project. Change the above with the name of your project
+# ANKAKH
+ANKAKH = independiente en armenio
+Ankakh espera ser un videojuego incluyente para niñas y niños entre las edades de 9-19 años para romper los prejuicios de la dificultad de las carreras STEM y las mujeres en la ciencia.
 
 # Table of content
 
